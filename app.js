@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 
 var settings = {
-    'client_secret': 'f657d9629b995890fdba2ea7519f3bf404ae49b6' ,
+    'client_secret': '' ,//add your client secret
     'async': 0 ,
     'lang': 'CPP' ,
     'time_limit': 5,
